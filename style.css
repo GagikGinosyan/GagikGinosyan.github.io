@@ -230,11 +230,10 @@ textarea {
 
 @media screen and (min-width: 768px) {
 
-    /* содержимое шапки ограничено 960px и выровнено по центру */
+    /* шапка на всю ширину окна: лого с названием у левого края,
+       меню у правого */
     .header-in {
         flex-wrap: nowrap;
-        max-width: 960px;
-        margin: 0 auto;
         padding: 20px;
     }
 
