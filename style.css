@@ -298,9 +298,8 @@ textarea {
         padding: 15px;
     }
 
+    /* надпись в подвале у левого края окна, на одной линии с лого */
     .footer-in {
-        max-width: 960px;
-        margin: 0 auto;
         padding: 0 20px;
     }
 }
